@@ -6,9 +6,20 @@
 <details class="details-reset border rounded-2" >
 
   <summary class="px-3 py-2">
-  <p align="center">
-    <span aria-label="Video description -.-kissvk.com.mp4" class="m-1">музик</span>
-  </p>
+    <p align="center">
+      <span aria-label="Video description -.-kissvk.com.mp4" class="m-1"
+            style="
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-family: sans-serif;
+      color: #333;
+      display: inline-block;
+    "
+        >музик</span>
+    </p>
 
   </summary>
 
