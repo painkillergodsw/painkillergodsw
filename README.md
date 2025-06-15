@@ -12,9 +12,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="..." controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+  <video src="https://github.com/user-attachments/assets/398c0478-072e-4602-af2e-9c6850a89a73" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
   </video>
 </details>
 
-
-https://github.com/user-attachments/assets/398c0478-072e-4602-af2e-9c6850a89a73
