@@ -1,4 +1,4 @@
-## Hi there 👋
+## ШАГАЙ НА КРАСНЫЙ СВЕТ И НАРУШАЙ ПРАВОПОРЯДОК
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e98bf132-5365-46b9-a1ae-4243fe3b730b"/>
 </p>
